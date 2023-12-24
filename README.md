@@ -1,7 +1,7 @@
 [![MasterHead](https://i.pinimg.com/originals/9e/0a/c8/9e0ac82bc17ff00708da6bd09593177e.gif)](https://hadiyaarfa.io)
 <h1 align="center">Hi 👋, I'm Hadiya Arfa</h1>
 <h3 align="center">An aspiring Data Scientist and Analyst</h3>
-<img align="right" alt="Coding" width="400" src="https://user-images.githubusercontent.com/74038190/236119160-976a0405-caa7-470c-9356-16d43402ea0a.gif">
+<img align="right" alt="Coding" width="300" src="https://user-images.githubusercontent.com/74038190/236119160-976a0405-caa7-470c-9356-16d43402ea0a.gif">
 
 - 🌱 I’m currently learning **Deep Learning**
 
